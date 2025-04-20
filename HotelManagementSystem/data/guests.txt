@@ -1,0 +1,3 @@
+rohit|24|55545521444100|101|economy
+amit|44|2587469315|120|economy
+sahil|24|7887469315|200|business
